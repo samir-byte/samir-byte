@@ -10,8 +10,9 @@
 - 👍 Additional Skills - Web Scrapping, Selenium
 
 ### 📫 How to reach me: 
-- Linked: 🔗https://www.linkedin.com/in/samir-paudyal-a753641b5 
-- Gmail: 🔗kiranpoudel28@gmail.com
+- 🔗[Linkedin](https://www.linkedin.com/in/samir-paudyal-a753641b5) 
+- 🔗[Gmail](kiranpoudel28@gmail.com)
+- 🔗[Github](https://github.com/samir-byte)
 
 
 
