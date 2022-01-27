@@ -1,12 +1,17 @@
 ### Hi I am @samir-byte(Samir Paudyal) 👋. 
 
--  :thumbsup: I am Software Engineer from Nepal 
-- 🔭 I’m currently working on Palmmind Technology
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👍 I am Software Engineer from Nepal 🇳🇵
+- 🔭 I’m currently working on Palmmind Technology 
+- 👍 Former Software Developer of Salyani Technology
+- ➡️ Currently learning - Advance Node js and Express 
+- 🌱 Backend Frameworks - Django, FastAPI, Node js, Express, Loopback, Odoo 
+- 👯 Databases - MongoDB, PostgreSQL, sqlite3
+- ▶️ Frontend Technologies - Vanilla js, Jquery, Bootstrap 
+- 👍 Additional Skills - Web Scrapping, Selenium
+
+### 📫 How to reach me: 
+- Linked: 🔗https://www.linkedin.com/in/samir-paudyal-a753641b5 
+- Gmail: 🔗kiranpoudel28@gmail.com
+
+
 
