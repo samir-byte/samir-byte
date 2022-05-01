@@ -3,10 +3,10 @@
 - 👍 I am Software Engineer from Nepal 🇳🇵
 - 🔭 I’m currently working on Palmmind Technology 
 - 👍 Former Software Developer of Salyani Technology
-- ➡️ Currently learning - Advance Node js and Express 
+- ➡️ Currently learning - Angular 
 - 🌱 Backend Frameworks - Django, FastAPI, Node js, Express, Loopback, Odoo 
 - 👯 Databases - MongoDB, PostgreSQL, sqlite3
-- ▶️ Frontend Technologies - Vanilla js, Jquery, Bootstrap 
+- ▶️ Frontend Technologies - Vanilla js, Jquery, Bootstrap, Angular
 - 👍 Additional Skills - Web Scrapping, Selenium
 
 ### 📫 How to reach me: 
