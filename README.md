@@ -1,8 +1,8 @@
 ### Hi I am @samir-byte(Samir Paudyal) 👋. 
 
 - 👍 I am Software Engineer from Nepal 🇳🇵
-- 🔭 I’m currently working on Palmmind Technology 
-- 👍 Former Software Developer of Salyani Technology
+- 🔭 I’m currently working on Swivt Technology 
+- 👍 Former Software Developer of Salyani Technology, Palmmind Technology
 - ➡️ Currently learning - React Js 
 - 🌱 Backend Frameworks - Django, FastAPI, Node js, Express, Loopback, Odoo 
 - 👯 Databases - MongoDB, PostgreSQL, sqlite3
