@@ -3,10 +3,10 @@
 - 👍 I am Software Engineer from Nepal 🇳🇵
 - 🔭 I’m currently working on Swivt Technology 
 - 👍 Former Software Developer of Salyani Technology, Palmmind Technology
-- ➡️ Currently learning - React Js 
+- ➡️ Currently learning - Microservices architecture 
 - 🌱 Backend Frameworks - Django, FastAPI, Node js, Express, Loopback, Odoo 
 - 👯 Databases - MongoDB, PostgreSQL, sqlite3
-- ▶️ Frontend Technologies - Vanilla js, Jquery, Bootstrap, Basic Angular, React Js
+- ▶️ Frontend Technologies - Vanilla js, Jquery, Bootstrap, Basic Angular, React, Next
 - 👍 Additional Skills - Web Scrapping, Selenium
 
 ### 📫 How to reach me: 
